@@ -5,7 +5,7 @@ SPIRAL is a software toolbox for solving Poisson inverse problems.
 
 Cite this software as
 
-Z. T. Harmany, R. F. Marcia, and R. M. Willett, “This is SPIRAL-TAP: Sparse Poisson Intensity Reconstruction ALgorithms—Theory and Practice,” IEEE Transactions on Image Processing, vol. 21, pp. 1084–1096, Mar. 2012.
+Z. T. Harmany, R. F. Marcia, and R. M. Willett, "This is SPIRAL-TAP: Sparse Poisson Intensity Reconstruction ALgorithms—Theory and Practice," IEEE Transactions on Image Processing, vol. 21, pp. 1084–1096, Mar. 2012.
 
 This paper describes the mathematical details and is available via [IEEEXplore][SPIRAL-IEEEXplore] or [ArXiv.org][SPIRAL-ArXiv]. 
 
