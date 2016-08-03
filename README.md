@@ -1,7 +1,7 @@
 SPIRAL-TAP
 ==========
 
-SPIRAL is a software toolbox for solving Poisson inverse problems.
+SPIRAL is a MATLAB software toolbox for solving Poisson inverse problems.
 
 Cite this software as
 
